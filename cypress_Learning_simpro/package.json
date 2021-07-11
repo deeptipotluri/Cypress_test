@@ -8,10 +8,9 @@
   },
   "author": "Deepti",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^7.7.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "cypress": "^7.7.0",
     "cypress-cucumber-preprocessor": "^4.1.4"
   },
   "cypress-cucumber-preprocessor": {
