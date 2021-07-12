@@ -10,7 +10,7 @@ var _booktype,_bookName,_bookName,_price,_amount,_disc,_discamt,_total,_units,_b
          
 
 Given('I navigate to simpro book ordering site', ()=>{
-    cy.visit("https://react.simprocloud.com/build/index.html")
+    cy.visit(Cypress.config('baseUrl'))
     
 
 })
